@@ -1,0 +1,165 @@
+{
+  "title": "Sentient Protocol Quiz",
+  "start": "Start Quiz",
+  "next": "Next",
+  "submit": "Submit",
+  "restart": "Restart Quiz",
+  "language": "Language",
+  "score": "Score",
+  "correct": "Correct",
+  "incorrect": "Incorrect",
+  "total": "Total",
+  "loading": "Loading...",
+  "error": "Error",
+  "tryAgain": "Try Again",
+  "congratulations": "Congratulations!",
+  "quizComplete": "Quiz Complete",
+  "yourScore": "Your Score",
+  "outOf": "out of",
+  "questions": "questions",
+  "navigation": {
+    "home": "Home",
+    "quiz": "Quiz",
+    "learn": "Learn",
+    "resources": "Resources"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to",
+      "subtitle": "Sentient Protocol",
+      "description": "Discover the future of AI infrastructure. Learn about blockchain-based AI systems, take interactive quizzes, and explore comprehensive resources.",
+      "startQuiz": "Start Quiz",
+      "learnMore": "Learn More"
+    },
+    "features": {
+      "title": "Explore Sentient Protocol",
+      "subtitle": "Dive into the world of AI infrastructure with our comprehensive learning platform",
+      "learnArchitecture": {
+        "title": "Learn Architecture",
+        "description": "Understand Sentient Protocol's core components and design principles"
+      },
+      "takeQuiz": {
+        "title": "Take Quiz",
+        "description": "Test your knowledge with interactive quizzes on Sentient Protocol"
+      },
+      "resources": {
+        "title": "Resources",
+        "description": "Access comprehensive documentation and learning materials"
+      }
+    },
+    "cta": {
+      "title": "Ready to Test Your Knowledge?",
+      "description": "Take our interactive quiz to see how well you understand Sentient Protocol",
+      "button": "Start Quiz Now"
+    }
+  },
+  "learn": {
+    "hero": {
+      "title": "Learn",
+      "subtitle": "Sentient Protocol",
+      "description": "Dive deep into the architecture, components, and principles of Sentient Protocol. Understand how blockchain and AI work together to create the future of decentralized AI infrastructure."
+    },
+    "topics": {
+      "title": "Learning Topics",
+      "subtitle": "Explore comprehensive documentation and tutorials for each component",
+      "learnMore": "Learn More",
+      "architecture": {
+        "title": "Architecture Overview",
+        "description": "Learn about the core components of Sentient Protocol"
+      },
+      "aiPipeline": {
+        "title": "AI Pipeline",
+        "description": "Understand the AI pipeline and its components"
+      },
+      "governance": {
+        "title": "Governance",
+        "description": "Learn about the governance structure"
+      },
+      "ownership": {
+        "title": "Ownership",
+        "description": "Understand ownership and tokenization"
+      },
+      "defi": {
+        "title": "DeFi",
+        "description": "Explore DeFi components and mechanisms"
+      },
+      "smartContracts": {
+        "title": "Smart Contracts",
+        "description": "Learn about smart contract implementation"
+      }
+    },
+    "cta": {
+      "title": "Ready to Test Your Knowledge?",
+      "description": "Now that you've learned about Sentient Protocol, take our quiz to see how well you understand the concepts",
+      "button": "Take the Quiz"
+    }
+  },
+  "resources": {
+    "hero": {
+      "title": "Resources &",
+      "subtitle": "Documentation",
+      "description": "Access comprehensive resources, documentation, and learning materials for Sentient Protocol. Everything you need to understand and work with the protocol."
+    },
+    "categories": {
+      "all": "All",
+      "documentation": "Documentation",
+      "technical": "Technical",
+      "governance": "Governance",
+      "defi": "DeFi"
+    },
+    "resources": {
+      "officialDocs": {
+        "title": "Official Documentation",
+        "description": "Comprehensive documentation covering all aspects of Sentient Protocol"
+      },
+      "architecture": {
+        "title": "Architecture Guide",
+        "description": "Detailed overview of the protocol architecture and components"
+      },
+      "aiPipeline": {
+        "title": "AI Pipeline",
+        "description": "Learn about the AI pipeline and its implementation"
+      },
+      "governance": {
+        "title": "Governance",
+        "description": "Understanding the governance structure and decision-making"
+      },
+      "ownership": {
+        "title": "Ownership",
+        "description": "Learn about ownership and tokenization mechanisms"
+      },
+      "defi": {
+        "title": "DeFi Components",
+        "description": "Explore DeFi components and financial mechanisms"
+      },
+      "smartContracts": {
+        "title": "Smart Contracts",
+        "description": "Technical details about smart contract implementation"
+      },
+      "visitResource": "Visit Resource"
+    },
+    "cta": {
+      "title": "Ready to Learn More?",
+      "description": "Now that you have access to all the resources, start learning about Sentient Protocol",
+      "startLearning": "Start Learning",
+      "takeQuiz": "Take Quiz"
+    }
+  },
+  "quiz": {
+    "features": {
+      "testKnowledge": {
+        "title": "Test Your Knowledge",
+        "description": "Challenge yourself with questions about Sentient Protocol"
+      },
+      "instantFeedback": {
+        "title": "Instant Feedback",
+        "description": "Get immediate results and explanations"
+      },
+      "trackProgress": {
+        "title": "Track Progress",
+        "description": "See your score and improve over time"
+      }
+    },
+    "info": "Multiple choice questions • Instant results • No time limit"
+  }
+} 

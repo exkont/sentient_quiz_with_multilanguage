@@ -1,0 +1,165 @@
+{
+  "title": "Sentient Protocol Quiz",
+  "start": "Quiz'i Başlat",
+  "next": "İleri",
+  "submit": "Gönder",
+  "restart": "Quiz'i Yeniden Başlat",
+  "language": "Dil",
+  "score": "Puan",
+  "correct": "Doğru",
+  "incorrect": "Yanlış",
+  "total": "Toplam",
+  "loading": "Yükleniyor...",
+  "error": "Hata",
+  "tryAgain": "Tekrar Dene",
+  "congratulations": "Tebrikler!",
+  "quizComplete": "Quiz Tamamlandı",
+  "yourScore": "Puanınız",
+  "outOf": "/",
+  "questions": "soru",
+  "navigation": {
+    "home": "Ana Sayfa",
+    "quiz": "Quiz",
+    "learn": "Öğren",
+    "resources": "Kaynaklar"
+  },
+  "home": {
+    "hero": {
+      "title": "Hoş Geldiniz",
+      "subtitle": "Sentient Protocol",
+      "description": "AI altyapısının geleceğini keşfedin. Blockchain tabanlı AI sistemlerini öğrenin, interaktif quizler alın ve kapsamlı kaynakları keşfedin.",
+      "startQuiz": "Quiz'i Başlat",
+      "learnMore": "Daha Fazla Öğren"
+    },
+    "features": {
+      "title": "Sentient Protocol'ü Keşfedin",
+      "subtitle": "Kapsamlı öğrenme platformumuzla AI altyapısı dünyasına dalın",
+      "learnArchitecture": {
+        "title": "Mimariyi Öğren",
+        "description": "Sentient Protocol'ün temel bileşenlerini ve tasarım prensiplerini anlayın"
+      },
+      "takeQuiz": {
+        "title": "Quiz Al",
+        "description": "Sentient Protocol hakkındaki bilgilerinizi interaktif quizlerle test edin"
+      },
+      "resources": {
+        "title": "Kaynaklar",
+        "description": "Kapsamlı dokümantasyon ve öğrenme materyallerine erişin"
+      }
+    },
+    "cta": {
+      "title": "Bilgilerinizi Test Etmeye Hazır mısınız?",
+      "description": "Sentient Protocol'ü ne kadar iyi anladığınızı görmek için interaktif quizimizi alın",
+      "button": "Quiz'i Şimdi Başlat"
+    }
+  },
+  "learn": {
+    "hero": {
+      "title": "Öğrenin",
+      "subtitle": "Sentient Protocol",
+      "description": "Sentient Protocol'ün mimarisine, bileşenlerine ve prensiplerine derinlemesine dalın. Blockchain ve AI'nın merkezi olmayan AI altyapısının geleceğini yaratmak için nasıl birlikte çalıştığını anlayın."
+    },
+    "topics": {
+      "title": "Öğrenme Konuları",
+      "subtitle": "Her bileşen için kapsamlı dokümantasyon ve öğreticileri keşfedin",
+      "learnMore": "Daha Fazla Öğren",
+      "architecture": {
+        "title": "Mimari Genel Bakış",
+        "description": "Sentient Protocol'ün temel bileşenlerini öğrenin"
+      },
+      "aiPipeline": {
+        "title": "AI Pipeline",
+        "description": "AI pipeline'ını ve bileşenlerini anlayın"
+      },
+      "governance": {
+        "title": "Yönetim",
+        "description": "Yönetim yapısını öğrenin"
+      },
+      "ownership": {
+        "title": "Sahiplik",
+        "description": "Sahiplik ve tokenizasyonu anlayın"
+      },
+      "defi": {
+        "title": "DeFi",
+        "description": "DeFi bileşenlerini ve mekanizmalarını keşfedin"
+      },
+      "smartContracts": {
+        "title": "Akıllı Kontratlar",
+        "description": "Akıllı kontrat uygulamasını öğrenin"
+      }
+    },
+    "cta": {
+      "title": "Bilgilerinizi Test Etmeye Hazır mısınız?",
+      "description": "Artık Sentient Protocol hakkında öğrendiğinize göre, kavramları ne kadar iyi anladığınızı görmek için quizimizi alın",
+      "button": "Quiz'i Al"
+    }
+  },
+  "resources": {
+    "hero": {
+      "title": "Kaynaklar ve",
+      "subtitle": "Dokümantasyon",
+      "description": "Sentient Protocol için kapsamlı kaynaklara, dokümantasyona ve öğrenme materyallerine erişin. Protokolü anlamak ve onunla çalışmak için ihtiyacınız olan her şey."
+    },
+    "categories": {
+      "all": "Tümü",
+      "documentation": "Dokümantasyon",
+      "technical": "Teknik",
+      "governance": "Yönetim",
+      "defi": "DeFi"
+    },
+    "resources": {
+      "officialDocs": {
+        "title": "Resmi Dokümantasyon",
+        "description": "Sentient Protocol'ün tüm yönlerini kapsayan kapsamlı dokümantasyon"
+      },
+      "architecture": {
+        "title": "Mimari Rehberi",
+        "description": "Protokol mimarisinin ve bileşenlerinin detaylı genel bakışı"
+      },
+      "aiPipeline": {
+        "title": "AI Pipeline",
+        "description": "AI pipeline'ını ve uygulamasını öğrenin"
+      },
+      "governance": {
+        "title": "Yönetim",
+        "description": "Yönetim yapısını ve karar verme sürecini anlayın"
+      },
+      "ownership": {
+        "title": "Sahiplik",
+        "description": "Sahiplik ve tokenizasyon mekanizmalarını öğrenin"
+      },
+      "defi": {
+        "title": "DeFi Bileşenleri",
+        "description": "DeFi bileşenlerini ve finansal mekanizmaları keşfedin"
+      },
+      "smartContracts": {
+        "title": "Akıllı Kontratlar",
+        "description": "Akıllı kontrat uygulaması hakkında teknik detaylar"
+      },
+      "visitResource": "Kaynağı Ziyaret Et"
+    },
+    "cta": {
+      "title": "Daha Fazla Öğrenmeye Hazır mısınız?",
+      "description": "Artık tüm kaynaklara erişiminiz olduğuna göre, Sentient Protocol hakkında öğrenmeye başlayın",
+      "startLearning": "Öğrenmeye Başla",
+      "takeQuiz": "Quiz Al"
+    }
+  },
+  "quiz": {
+    "features": {
+      "testKnowledge": {
+        "title": "Bilgilerinizi Test Edin",
+        "description": "Sentient Protocol hakkındaki sorularla kendinizi zorlayın"
+      },
+      "instantFeedback": {
+        "title": "Anında Geri Bildirim",
+        "description": "Anında sonuçlar ve açıklamalar alın"
+      },
+      "trackProgress": {
+        "title": "İlerlemeyi Takip Edin",
+        "description": "Puanınızı görün ve zamanla gelişin"
+      }
+    },
+    "info": "Çoktan seçmeli sorular • Anında sonuçlar • Zaman sınırı yok"
+  }
+} 

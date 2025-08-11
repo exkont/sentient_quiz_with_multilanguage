@@ -1,0 +1,203 @@
+[
+    {
+      "question": "Які два основні компоненти архітектури Sentient Protocol?",
+      "options": [
+        "Blockchain System та AI Pipeline",
+        "Governance та DeFi",
+        "Data Curation та Loyalty Training",
+        "Storage Layer та Incentive Layer"
+      ],
+      "answer": "Blockchain System та AI Pipeline"
+    },
+    {
+      "question": "Які два основні процеси складають AI Pipeline?",
+      "options": [
+        "Data Curation та Loyalty Training",
+        "Model Fingerprinting та TEE Execution",
+        "Governance та Ownership",
+        "Access Layer та Distribution Layer"
+      ],
+      "answer": "Data Curation та Loyalty Training"
+    },
+    {
+      "question": "Що означає OML у Sentient Protocol?",
+      "options": [
+        "Open, Monetizable, Loyal",
+        "Ownership, Model, Ledger",
+        "Open-source, Monetizable, License",
+        "On-chain, Modular, Loyal"
+      ],
+      "answer": "Open, Monetizable, Loyal"
+    },
+    {
+      "question": "Який модуль НЕ є одним із чотирьох шарів blockchain system у Sentient Protocol?",
+      "options": [
+        "Storage Layer",
+        "Distribution Layer",
+        "Consensus Layer",
+        "Incentive Layer"
+      ],
+      "answer": "Consensus Layer"
+    },
+    {
+      "question": "Який шар зберігає ваги моделі та інформацію про реєстрацію відбитка (fingerprint)?",
+      "options": [
+        "Access Layer",
+        "Storage Layer",
+        "Incentive Layer",
+        "Distribution Layer"
+      ],
+      "answer": "Storage Layer"
+    },
+    {
+      "question": "Який шар керує authorization contracts, що контролюють виклики моделі?",
+      "options": [
+        "Incentive Layer",
+        "Storage Layer",
+        "Distribution Layer",
+        "Access Layer"
+      ],
+      "answer": "Distribution Layer"
+    },
+    {
+      "question": "Який шар перевіряє, чи користувачі мають дозвіл, використовуючи proof of permission?",
+      "options": [
+        "Access Layer",
+        "Distribution Layer",
+        "Incentive Layer",
+        "Storage Layer"
+      ],
+      "answer": "Access Layer"
+    },
+    {
+      "question": "Який шар спрямовує прибутки від викликів моделі до тренерів, розгортачів та валідаторів?",
+      "options": [
+        "Distribution Layer",
+        "Incentive Layer",
+        "Access Layer",
+        "Storage Layer"
+      ],
+      "answer": "Incentive Layer"
+    },
+    {
+      "question": "Яка мета властивості 'Open' у OML?",
+      "options": [
+        "Модель має бути open‑source, прозорою для відтворення, аудиту та форку",
+        "Модель має бути дозволена DAO",
+        "Модель повинна використовувати власне шифрування",
+        "Модель має бути розміщена централізовано"
+      ],
+      "answer": "Модель має бути open‑source, прозорою для відтворення, аудиту та форку"
+    },
+    {
+      "question": "Що означає 'Monetizable' у OML?",
+      "options": [
+        "Виклики моделі безкоштовні",
+        "Кожен виклик генерує прибуток, який розподіляється через on‑chain контракти між тренерами, розгортачами та валідаторами",
+        "Модель має працювати за підпискою",
+        "Модель працює лише off‑chain"
+      ],
+      "answer": "Кожен виклик генерує прибуток, який розподіляється через on‑chain контракти між тренерами, розгортачами та валідаторами"
+    },
+    {
+      "question": "Що означає властивість 'Loyal' у OML?",
+      "options": [
+        "Модель належить компанії",
+        "Оновлення та governance вирішуються DAO, власність підтверджується, модифікації обмежені, використання контрольоване",
+        "Модель має бути пропрієтарною",
+        "Модель завжди повертає однакові результати"
+      ],
+      "answer": "Оновлення та governance вирішуються DAO, власність підтверджується, модифікації обмежені, використання контрольоване"
+    },
+    {
+      "question": "Що таке 'AI‑native cryptography' у Sentient?",
+      "options": [
+        "Стандартне TLS‑шифрування",
+        "Використання безперервності, низьковимірного многовиду та диференційовності AI‑моделей для створення перевірюваного, але незнімного підпису",
+        "Шифрування ваг моделі за допомогою AES",
+        "Quantum‑resistant blockchain"
+      ],
+      "answer": "Використання безперервності, низьковимірного многовиду та диференційовності AI‑моделей для створення перевірюваного, але незнімного підпису"
+    },
+    {
+      "question": "Яка технологія вбудовує унікальний підпис у модель під час навчання?",
+      "options": [
+        "Watermarking",
+        "Fingerprint Embedding",
+        "UUID tagging",
+        "Digital license key"
+      ],
+      "answer": "Fingerprint Embedding"
+    },
+    {
+      "question": "Яка мета Ownership Verification Protocol?",
+      "options": [
+        "Шифрувати inference",
+        "Перевіряти збереження відбитка (fingerprint) через запит від стороннього детектора (Prover)",
+        "Запускати нові токени",
+        "Керувати доступом до UI"
+      ],
+      "answer": "Перевіряти збереження відбитка (fingerprint) через запит від стороннього детектора (Prover)"
+    },
+    {
+      "question": "Яка мета Sentient Enclaves Framework?",
+      "options": [
+        "Frontend чат‑інтерфейс",
+        "Інфраструктура для конфіденційного AI з використанням Trusted Execution Environments, таких як AWS Nitro Enclaves",
+        "Інструмент для розмітки даних навчання",
+        "Панель управління governance"
+      ],
+      "answer": "Інфраструктура для конфіденційного AI з використанням Trusted Execution Environments, таких як AWS Nitro Enclaves"
+    },
+    {
+      "question": "Який компонент гарантує, що модель відповідає лише на авторизовані запити?",
+      "options": [
+        "Incentive Layer",
+        "Fingerprint Embedding",
+        "Sentient Enclaves Framework (TEE)",
+        "Distribution Layer"
+      ],
+      "answer": "Sentient Enclaves Framework (TEE)"
+    },
+    {
+      "question": "Яка архітектура поєднує fingerprint certification, TEE execution та on‑chain contract profit sharing?",
+      "options": [
+        "Melange",
+        "Open Deep Search",
+        "Sentient Agent Framework",
+        "DAO governance stack"
+      ],
+      "answer": "Melange"
+    },
+    {
+      "question": "Який модуль у blockchain system представляє право власності на AI‑артефакт через токенізацію?",
+      "options": [
+        "DeFi",
+        "Ownership",
+        "Governance",
+        "Access"
+      ],
+      "answer": "Ownership"
+    },
+    {
+      "question": "Яка governance‑структура контролює процес ухвалення рішень у Sentient?",
+      "options": [
+        "Централізована компанія",
+        "DAO",
+        "Приватний фонд",
+        "Тільки власники токенів"
+      ],
+      "answer": "DAO"
+    },
+    {
+      "question": "Яка система в Sentient визначається як пошуковий агент, що може перевершити ChatGPT та Perplexity Pro?",
+      "options": [
+        "Sentient Chat",
+        "Open Deep Search",
+        "Melange",
+        "Sentient Agent Framework"
+      ],
+      "answer": "Open Deep Search"
+    }
+]
+  

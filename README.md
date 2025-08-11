@@ -1,36 +1,180 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+DISCORD: ilyakudyavykh
 
-## Getting Started
+X.com: https://x.com/IKucheriavykh
 
-First, run the development server:
+Sentient Protocol Quiz & Learning Platform
+An interactive educational platform for exploring the Sentient Protocol—a revolutionary blockchain system that integrates artificial intelligence and decentralized technologies.
 
-```bash
+🚀 About the Project
+The Sentient Protocol Quiz is a modern web application built with Next.js that offers users a comprehensive way to learn about the architecture and principles of the Sentient Protocol through interactive quizzes, educational materials, and resources.
+
+✨ Core Features
+📘 Learning (Learn)
+Architecture: Understanding the core components of the Sentient Protocol
+
+AI Pipeline: Grasping data processing and training workflows
+
+Governance: Exploring the system's governance structure
+
+Ownership: Comprehending tokenization and ownership models
+
+DeFi: Investigating decentralized finance components
+
+Smart Contracts: Studying the implementation of smart contracts
+
+🎯 Interactive Quizzes (Quiz)
+Dynamic questions on the Sentient Protocol's architecture
+
+Multiple-choice format with instant feedback
+
+Progress tracking and results analysis
+
+Adaptive quizzes available in multiple languages
+
+📚 Resources
+Official Sentient Protocol documentation
+
+Technical guides and API references
+
+Categorized materials by topic
+
+Direct links to docs.sentient.xyz
+
+🌍 Multilingual Support
+Available in 5 languages: English, Russian, Ukrainian, Chinese, Turkish
+
+Automatic language preference saving
+
+Localized content across all sections
+
+🛠️ Technology Stack
+Frontend: Next.js 15, React 19, TypeScript
+
+Styling: Tailwind CSS
+
+Animations: Framer Motion
+
+Icons: Lucide React
+
+Bundler: Turbopack
+
+Linting: ESLint
+
+🏗️ Application Architecture
+Component Structure
+Navigation: Navigation menu with language switcher
+
+AnimatedBackground: Animated background with particles
+
+StartScreen: Quiz start screen
+
+QuestionCard: Card displaying a question and answer options
+
+ResultScreen: Quiz results screen
+
+LanguageSelector: Interface for selecting the language
+
+Hooks & Logic
+useQuiz: Core quiz management logic
+
+Localization and language management
+
+API integration for answer validation
+
+API Endpoints
+/api/questions: Fetch questions in the selected language
+
+/api/check-answer: Validate answers
+
+🎨 Design Highlights
+Modern UI/UX: Minimalistic design with smooth animations
+
+Responsiveness: Full mobile device support
+
+Animations: Interactive elements powered by Framer Motion
+
+Mascot: Charming character Dobby enhancing user experience
+
+Color Scheme: Sentient Protocol branding with orange accents
+
+📱 Main Pages
+Home (/) - Overview of features and call to action
+
+Learn (/learn) - Educational materials by topic
+
+Quiz (/quiz) - Interactive quizzes with questions
+
+Resources (/resources) - Links to documentation and materials
+
+🚀 Project Setup
+Prerequisites
+Node.js 18+
+
+npm or yarn
+
+Installation & Running
+bash
+Copy
+Edit
+# Clone the repository
+git clone https://github.com/yourusername/sentient_faq_quiz.git
+cd sentient_faq_quiz
+
+# Install dependencies
+npm install
+
+# Run in development mode
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Build for production
+npm run build
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Start production version
+npm start
+🧠 Data Structure
+Question Types
+typescript
+Copy
+Edit
+type Question = {
+  question: string;
+  options: string[];
+  answer: string;
+}
+Quiz State
+typescript
+Copy
+Edit
+type QuizState = {
+  currentQuestion: number;
+  score: number;
+  answers: string[];
+  isComplete: boolean;
+  isStarted: boolean;
+}
+🌟 Key Features
+Interactivity: Smooth transitions between screens and animations
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Personalization: Saving language preferences
 
-## Learn More
+Educational Value: Structured approach to learning complex concepts
 
-To learn more about Next.js, take a look at the following resources:
+Accessibility: Support for multiple languages for a global audience
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Performance: Optimized build with Next.js and Turbopack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🔗 Links
+Sentient Protocol Documentation: https://docs.sentient.xyz/
 
-## Deploy on Vercel
+Architecture: https://docs.sentient.xyz/architecture
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+AI Pipeline: https://docs.sentient.xyz/ai_pipeline
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Governance: https://docs.sentient.xyz/blockchain/governance
+
+👨‍💻 Author
+Ilya Kucheryavykh
+
+Discord: ilyakudyavykh
+
+X.com: @IKucheriavykh

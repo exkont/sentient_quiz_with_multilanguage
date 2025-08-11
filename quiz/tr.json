@@ -1,0 +1,203 @@
+[
+    {
+      "question": "Sentient Protocol mimarisinin iki temel bileşeni nedir?",
+      "options": [
+        "Blockchain System ve AI Pipeline",
+        "Governance ve DeFi",
+        "Data Curation ve Loyalty Training",
+        "Storage Layer ve Incentive Layer"
+      ],
+      "answer": "Blockchain System ve AI Pipeline"
+    },
+    {
+      "question": "AI Pipeline hangi iki temel süreçten oluşur?",
+      "options": [
+        "Data Curation ve Loyalty Training",
+        "Model Fingerprinting ve TEE Execution",
+        "Governance ve Ownership",
+        "Access Layer ve Distribution Layer"
+      ],
+      "answer": "Data Curation ve Loyalty Training"
+    },
+    {
+      "question": "Sentient Protocol'de OML ne anlama gelir?",
+      "options": [
+        "Open, Monetizable, Loyal",
+        "Ownership, Model, Ledger",
+        "Open-source, Monetizable, License",
+        "On-chain, Modular, Loyal"
+      ],
+      "answer": "Open, Monetizable, Loyal"
+    },
+    {
+      "question": "Aşağıdaki modüllerden hangisi Sentient Protocol blok zinciri sisteminin dört katmanından biri değildir?",
+      "options": [
+        "Storage Layer",
+        "Distribution Layer",
+        "Consensus Layer",
+        "Incentive Layer"
+      ],
+      "answer": "Consensus Layer"
+    },
+    {
+      "question": "Hangi katman model ağırlıklarını ve parmak izi kayıt bilgilerini depolar?",
+      "options": [
+        "Access Layer",
+        "Storage Layer",
+        "Incentive Layer",
+        "Distribution Layer"
+      ],
+      "answer": "Storage Layer"
+    },
+    {
+      "question": "Hangi katman model çağrılarını kontrol eden yetkilendirme sözleşmelerini yönetir?",
+      "options": [
+        "Incentive Layer",
+        "Storage Layer",
+        "Distribution Layer",
+        "Access Layer"
+      ],
+      "answer": "Distribution Layer"
+    },
+    {
+      "question": "Hangi katman kullanıcıların yetkili olup olmadığını izin kanıtı (proof of permission) ile doğrular?",
+      "options": [
+        "Access Layer",
+        "Distribution Layer",
+        "Incentive Layer",
+        "Storage Layer"
+      ],
+      "answer": "Access Layer"
+    },
+    {
+      "question": "Hangi katman model çağrılarından elde edilen geliri eğitmenlere, dağıtıcılara ve doğrulayıcılara yönlendirir?",
+      "options": [
+        "Distribution Layer",
+        "Incentive Layer",
+        "Access Layer",
+        "Storage Layer"
+      ],
+      "answer": "Incentive Layer"
+    },
+    {
+      "question": "OML'deki 'Open' özelliğinin amacı nedir?",
+      "options": [
+        "Model açık kaynak olmalı, çoğaltma, denetleme ve çatallanma için şeffaf olmalı",
+        "Model DAO tarafından izinli olmalı",
+        "Model özel şifreleme kullanmalı",
+        "Model merkezi olarak barındırılmalı"
+      ],
+      "answer": "Model açık kaynak olmalı, çoğaltma, denetleme ve çatallanma için şeffaf olmalı"
+    },
+    {
+      "question": "OML'deki 'Monetizable' neyi gerektirir?",
+      "options": [
+        "Model çağrıları ücretsizdir",
+        "Her çağrı, zincir üstü sözleşmeler aracılığıyla eğitmenlere, dağıtıcılara ve doğrulayıcılara gelir sağlar",
+        "Model abonelik sistemi olmalı",
+        "Model sadece zincir dışında çalışır"
+      ],
+      "answer": "Her çağrı, zincir üstü sözleşmeler aracılığıyla eğitmenlere, dağıtıcılara ve doğrulayıcılara gelir sağlar"
+    },
+    {
+      "question": "OML'deki 'Loyal' özelliği ne anlama gelir?",
+      "options": [
+        "Model şirkete aittir",
+        "Güncellemeler ve yönetim DAO tarafından kararlaştırılır, sahiplik doğrulanabilir, değişiklikler kısıtlanır, kullanım kontrol edilir",
+        "Model özel olmalı",
+        "Model tutarlı çıktı verir"
+      ],
+      "answer": "Güncellemeler ve yönetim DAO tarafından kararlaştırılır, sahiplik doğrulanabilir, değişiklikler kısıtlanır, kullanım kontrol edilir"
+    },
+    {
+      "question": "Sentient'deki 'AI‑native cryptography' nedir?",
+      "options": [
+        "Standart TLS şifrelemesi",
+        "AI modellerinin sürekliliği, düşük boyutlu manifold ve diferansiyellenebilirliğini kullanarak doğrulanabilir ama kaldırılamayan imza geliştirme",
+        "Model ağırlıklarını AES ile şifreleme",
+        "Kuantuma dirençli blok zinciri"
+      ],
+      "answer": "AI modellerinin sürekliliği, düşük boyutlu manifold ve diferansiyellenebilirliğini kullanarak doğrulanabilir ama kaldırılamayan imza geliştirme"
+    },
+    {
+      "question": "Eğitim sırasında modele benzersiz bir imza yerleştiren temel teknoloji nedir?",
+      "options": [
+        "Watermarking",
+        "Fingerprint Embedding",
+        "UUID tagging",
+        "Digital license key"
+      ],
+      "answer": "Fingerprint Embedding"
+    },
+    {
+      "question": "Ownership Verification Protocol'un amacı nedir?",
+      "options": [
+        "Çıkarımı şifrelemek",
+        "Üçüncü taraf dedektör (Prover) tarafından sorgulamayla parmak izi korunmasını doğrulamak",
+        "Yeni tokenlar başlatmak",
+        "UI erişimini yönetmek"
+      ],
+      "answer": "Üçüncü taraf dedektör (Prover) tarafından sorgulamayla parmak izi korunmasını doğrulamak"
+    },
+    {
+      "question": "Sentient Enclaves Framework'un amacı nedir?",
+      "options": [
+        "Ön yüz sohbet arayüzü",
+        "AWS Nitro Enclaves gibi Trusted Execution Environments kullanarak gizli AI için altyapı",
+        "Eğitim veri etiketleme aracı",
+        "Yönetim paneli"
+      ],
+      "answer": "AWS Nitro Enclaves gibi Trusted Execution Environments kullanarak gizli AI için altyapı"
+    },
+    {
+      "question": "Modelin yalnızca yetkili istekleri yanıtlamasını sağlayan bileşen nedir?",
+      "options": [
+        "Incentive Layer",
+        "Fingerprint Embedding",
+        "Sentient Enclaves Framework (TEE)",
+        "Distribution Layer"
+      ],
+      "answer": "Sentient Enclaves Framework (TEE)"
+    },
+    {
+      "question": "Fingerprint certification, TEE execution ve zincir üstü kâr paylaşımını birleştiren mimari hangisidir?",
+      "options": [
+        "Melange",
+        "Open Deep Search",
+        "Sentient Agent Framework",
+        "DAO governance stack"
+      ],
+      "answer": "Melange"
+    },
+    {
+      "question": "Blok zinciri sistemindeki hangi modül AI eser sahipliğini tokenizasyon yoluyla temsil eder?",
+      "options": [
+        "DeFi",
+        "Ownership",
+        "Governance",
+        "Access"
+      ],
+      "answer": "Ownership"
+    },
+    {
+      "question": "Sentient'deki karar alma sürecini kontrol eden yönetim yapısı hangisidir?",
+      "options": [
+        "Merkezi şirket",
+        "DAO",
+        "Özel vakıf",
+        "Sadece token sahipleri"
+      ],
+      "answer": "DAO"
+    },
+    {
+      "question": "Sentient'de ChatGPT ve Perplexity Pro'yu aşabilen arama ajanı olarak tanımlanan sistem hangisidir?",
+      "options": [
+        "Sentient Chat",
+        "Open Deep Search",
+        "Melange",
+        "Sentient Agent Framework"
+      ],
+      "answer": "Open Deep Search"
+    }
+]
+  

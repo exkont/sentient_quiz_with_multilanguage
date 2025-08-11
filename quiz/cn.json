@@ -1,0 +1,203 @@
+[
+    {
+      "question": "Sentient Protocol 架构的两个核心组成部分是什么？",
+      "options": [
+        "Blockchain System 和 AI Pipeline",
+        "Governance 和 DeFi",
+        "Data Curation 和 Loyalty Training",
+        "Storage Layer 和 Incentive Layer"
+      ],
+      "answer": "Blockchain System 和 AI Pipeline"
+    },
+    {
+      "question": "AI Pipeline 包含哪两个核心流程？",
+      "options": [
+        "Data Curation 和 Loyalty Training",
+        "Model Fingerprinting 和 TEE Execution",
+        "Governance 和 Ownership",
+        "Access Layer 和 Distribution Layer"
+      ],
+      "answer": "Data Curation 和 Loyalty Training"
+    },
+    {
+      "question": "在 Sentient Protocol 中，OML 代表什么？",
+      "options": [
+        "Open, Monetizable, Loyal",
+        "Ownership, Model, Ledger",
+        "Open-source, Monetizable, License",
+        "On-chain, Modular, Loyal"
+      ],
+      "answer": "Open, Monetizable, Loyal"
+    },
+    {
+      "question": "以下哪个模块不是 Sentient Protocol 区块链系统的四个层之一？",
+      "options": [
+        "Storage Layer",
+        "Distribution Layer",
+        "Consensus Layer",
+        "Incentive Layer"
+      ],
+      "answer": "Consensus Layer"
+    },
+    {
+      "question": "哪个层存储模型权重和指纹注册信息？",
+      "options": [
+        "Access Layer",
+        "Storage Layer",
+        "Incentive Layer",
+        "Distribution Layer"
+      ],
+      "answer": "Storage Layer"
+    },
+    {
+      "question": "哪个层管理控制模型调用的授权合约？",
+      "options": [
+        "Incentive Layer",
+        "Storage Layer",
+        "Distribution Layer",
+        "Access Layer"
+      ],
+      "answer": "Distribution Layer"
+    },
+    {
+      "question": "哪个层通过权限证明（proof of permission）验证用户是否被授权？",
+      "options": [
+        "Access Layer",
+        "Distribution Layer",
+        "Incentive Layer",
+        "Storage Layer"
+      ],
+      "answer": "Access Layer"
+    },
+    {
+      "question": "哪个层将模型调用的收益分配给训练者、部署者和验证者？",
+      "options": [
+        "Distribution Layer",
+        "Incentive Layer",
+        "Access Layer",
+        "Storage Layer"
+      ],
+      "answer": "Incentive Layer"
+    },
+    {
+      "question": "OML 中 “Open” 属性的目标是什么？",
+      "options": [
+        "模型必须是开源的，可透明地进行复现、审计和分叉",
+        "模型必须由 DAO 授权",
+        "模型必须使用专有加密",
+        "模型必须集中托管"
+      ],
+      "answer": "模型必须是开源的，可透明地进行复现、审计和分叉"
+    },
+    {
+      "question": "OML 中的 “Monetizable” 要求是什么？",
+      "options": [
+        "模型调用免费",
+        "每次调用都会产生收入，并通过链上合约分配给训练者、部署者和验证者",
+        "模型必须有订阅制",
+        "模型只能在链下运行"
+      ],
+      "answer": "每次调用都会产生收入，并通过链上合约分配给训练者、部署者和验证者"
+    },
+    {
+      "question": "OML 中的 “Loyal” 属性是什么意思？",
+      "options": [
+        "模型属于公司",
+        "更新和治理由 DAO 决定，所有权可验证，修改受限，使用受控",
+        "模型必须是专有的",
+        "模型返回一致的输出"
+      ],
+      "answer": "更新和治理由 DAO 决定，所有权可验证，修改受限，使用受控"
+    },
+    {
+      "question": "在 Sentient 中，“AI‑native cryptography” 是什么？",
+      "options": [
+        "标准 TLS 加密",
+        "利用 AI 模型的连续性、低维流形和可微性来开发可验证但不可移除的签名",
+        "使用 AES 加密模型权重",
+        "抗量子区块链"
+      ],
+      "answer": "利用 AI 模型的连续性、低维流形和可微性来开发可验证但不可移除的签名"
+    },
+    {
+      "question": "哪项核心技术在训练过程中将唯一签名嵌入模型中？",
+      "options": [
+        "Watermarking",
+        "Fingerprint Embedding",
+        "UUID tagging",
+        "Digital license key"
+      ],
+      "answer": "Fingerprint Embedding"
+    },
+    {
+      "question": "Ownership Verification Protocol 的目的是什么？",
+      "options": [
+        "加密推理",
+        "通过第三方检测器（Prover）的查询验证指纹是否保留",
+        "发行新代币",
+        "管理 UI 访问"
+      ],
+      "answer": "通过第三方检测器（Prover）的查询验证指纹是否保留"
+    },
+    {
+      "question": "Sentient Enclaves Framework 的目的是什么？",
+      "options": [
+        "前端聊天 UI",
+        "使用 Trusted Execution Environments（如 AWS Nitro Enclaves）实现保密 AI 的基础设施",
+        "训练数据标注工具",
+        "治理仪表板"
+      ],
+      "answer": "使用 Trusted Execution Environments（如 AWS Nitro Enclaves）实现保密 AI 的基础设施"
+    },
+    {
+      "question": "哪个组件确保模型仅响应授权请求？",
+      "options": [
+        "Incentive Layer",
+        "Fingerprint Embedding",
+        "Sentient Enclaves Framework (TEE)",
+        "Distribution Layer"
+      ],
+      "answer": "Sentient Enclaves Framework (TEE)"
+    },
+    {
+      "question": "哪种架构结合了 fingerprint certification、TEE execution 和链上利润分配？",
+      "options": [
+        "Melange",
+        "Open Deep Search",
+        "Sentient Agent Framework",
+        "DAO governance stack"
+      ],
+      "answer": "Melange"
+    },
+    {
+      "question": "区块链系统中的哪个模块通过代币化表示 AI 工件的所有权？",
+      "options": [
+        "DeFi",
+        "Ownership",
+        "Governance",
+        "Access"
+      ],
+      "answer": "Ownership"
+    },
+    {
+      "question": "Sentient 中的哪种治理结构控制决策过程？",
+      "options": [
+        "集中式公司",
+        "DAO",
+        "私人基金会",
+        "仅代币持有者"
+      ],
+      "answer": "DAO"
+    },
+    {
+      "question": "Sentient 中哪个系统被定义为可以超越 ChatGPT 和 Perplexity Pro 的搜索代理？",
+      "options": [
+        "Sentient Chat",
+        "Open Deep Search",
+        "Melange",
+        "Sentient Agent Framework"
+      ],
+      "answer": "Open Deep Search"
+    }
+  ]
+  

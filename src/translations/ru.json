@@ -1,0 +1,165 @@
+{
+  "title": "Квиз Sentient Protocol",
+  "start": "Начать квиз",
+  "next": "Далее",
+  "submit": "Отправить",
+  "restart": "Начать заново",
+  "language": "Язык",
+  "score": "Счет",
+  "correct": "Правильно",
+  "incorrect": "Неправильно",
+  "total": "Всего",
+  "loading": "Загрузка...",
+  "error": "Ошибка",
+  "tryAgain": "Попробовать снова",
+  "congratulations": "Поздравляем!",
+  "quizComplete": "Квиз завершен",
+  "yourScore": "Ваш счет",
+  "outOf": "из",
+  "questions": "вопросов",
+  "navigation": {
+    "home": "Главная",
+    "quiz": "Квиз",
+    "learn": "Обучение",
+    "resources": "Ресурсы"
+  },
+  "home": {
+    "hero": {
+      "title": "Добро пожаловать в",
+      "subtitle": "Sentient Protocol",
+      "description": "Откройте для себя будущее AI инфраструктуры. Изучите блокчейн-системы AI, пройдите интерактивные квизы и исследуйте комплексные ресурсы.",
+      "startQuiz": "Начать квиз",
+      "learnMore": "Узнать больше"
+    },
+    "features": {
+      "title": "Исследуйте Sentient Protocol",
+      "subtitle": "Погрузитесь в мир AI инфраструктуры с нашей комплексной обучающей платформой",
+      "learnArchitecture": {
+        "title": "Изучить архитектуру",
+        "description": "Поймите основные компоненты и принципы дизайна Sentient Protocol"
+      },
+      "takeQuiz": {
+        "title": "Пройти квиз",
+        "description": "Проверьте свои знания с интерактивными квизами по Sentient Protocol"
+      },
+      "resources": {
+        "title": "Ресурсы",
+        "description": "Получите доступ к комплексной документации и обучающим материалам"
+      }
+    },
+    "cta": {
+      "title": "Готовы проверить свои знания?",
+      "description": "Пройдите наш интерактивный квиз, чтобы увидеть, насколько хорошо вы понимаете Sentient Protocol",
+      "button": "Начать квиз сейчас"
+    }
+  },
+  "learn": {
+    "hero": {
+      "title": "Изучите",
+      "subtitle": "Sentient Protocol",
+      "description": "Погрузитесь в архитектуру, компоненты и принципы Sentient Protocol. Поймите, как блокчейн и AI работают вместе для создания будущего децентрализованной AI инфраструктуры."
+    },
+    "topics": {
+      "title": "Темы для изучения",
+      "subtitle": "Исследуйте комплексную документацию и учебные пособия для каждого компонента",
+      "learnMore": "Узнать больше",
+      "architecture": {
+        "title": "Обзор архитектуры",
+        "description": "Изучите основные компоненты Sentient Protocol"
+      },
+      "aiPipeline": {
+        "title": "AI Pipeline",
+        "description": "Поймите AI pipeline и его компоненты"
+      },
+      "governance": {
+        "title": "Управление",
+        "description": "Изучите структуру управления"
+      },
+      "ownership": {
+        "title": "Владение",
+        "description": "Поймите владение и токенизацию"
+      },
+      "defi": {
+        "title": "DeFi",
+        "description": "Исследуйте DeFi компоненты и механизмы"
+      },
+      "smartContracts": {
+        "title": "Смарт-контракты",
+        "description": "Изучите реализацию смарт-контрактов"
+      }
+    },
+    "cta": {
+      "title": "Готовы проверить свои знания?",
+      "description": "Теперь, когда вы изучили Sentient Protocol, пройдите наш квиз, чтобы увидеть, насколько хорошо вы понимаете концепции",
+      "button": "Пройти квиз"
+    }
+  },
+  "resources": {
+    "hero": {
+      "title": "Ресурсы и",
+      "subtitle": "Документация",
+      "description": "Получите доступ к комплексным ресурсам, документации и обучающим материалам для Sentient Protocol. Все, что нужно для понимания и работы с протоколом."
+    },
+    "categories": {
+      "all": "Все",
+      "documentation": "Документация",
+      "technical": "Техническое",
+      "governance": "Управление",
+      "defi": "DeFi"
+    },
+    "resources": {
+      "officialDocs": {
+        "title": "Официальная документация",
+        "description": "Комплексная документация, охватывающая все аспекты Sentient Protocol"
+      },
+      "architecture": {
+        "title": "Руководство по архитектуре",
+        "description": "Подробный обзор архитектуры протокола и компонентов"
+      },
+      "aiPipeline": {
+        "title": "AI Pipeline",
+        "description": "Изучите AI pipeline и его реализацию"
+      },
+      "governance": {
+        "title": "Управление",
+        "description": "Понимание структуры управления и принятия решений"
+      },
+      "ownership": {
+        "title": "Владение",
+        "description": "Изучите механизмы владения и токенизации"
+      },
+      "defi": {
+        "title": "DeFi компоненты",
+        "description": "Исследуйте DeFi компоненты и финансовые механизмы"
+      },
+      "smartContracts": {
+        "title": "Смарт-контракты",
+        "description": "Технические детали реализации смарт-контрактов"
+      },
+      "visitResource": "Посетить ресурс"
+    },
+    "cta": {
+      "title": "Готовы узнать больше?",
+      "description": "Теперь, когда у вас есть доступ ко всем ресурсам, начните изучать Sentient Protocol",
+      "startLearning": "Начать обучение",
+      "takeQuiz": "Пройти квиз"
+    }
+  },
+  "quiz": {
+    "features": {
+      "testKnowledge": {
+        "title": "Проверьте свои знания",
+        "description": "Испытайте себя вопросами о Sentient Protocol"
+      },
+      "instantFeedback": {
+        "title": "Мгновенная обратная связь",
+        "description": "Получите немедленные результаты и объяснения"
+      },
+      "trackProgress": {
+        "title": "Отслеживайте прогресс",
+        "description": "Смотрите свой счет и улучшайтесь со временем"
+      }
+    },
+    "info": "Вопросы с множественным выбором • Мгновенные результаты • Без ограничения времени"
+  }
+} 

@@ -1,0 +1,203 @@
+[
+    {
+      "question": "What are the two core components of the Sentient Protocol architecture?",
+      "options": [
+        "Blockchain System and AI Pipeline",
+        "Governance and DeFi",
+        "Data Curation and Loyalty Training",
+        "Storage Layer and Incentive Layer"
+      ],
+      "answer": "Blockchain System and AI Pipeline"
+    },
+    {
+      "question": "Which two core processes comprise the AI Pipeline?",
+      "options": [
+        "Data Curation and Loyalty Training",
+        "Model Fingerprinting and TEE Execution",
+        "Governance and Ownership",
+        "Access Layer and Distribution Layer"
+      ],
+      "answer": "Data Curation and Loyalty Training"
+    },
+    {
+      "question": "What does OML stand for in Sentient Protocol?",
+      "options": [
+        "Open, Monetizable, Loyal",
+        "Ownership, Model, Ledger",
+        "Open-source, Monetizable, License",
+        "On-chain, Modular, Loyal"
+      ],
+      "answer": "Open, Monetizable, Loyal"
+    },
+    {
+      "question": "Which module is NOT one of the four layers of the blockchain system in Sentient Protocol?",
+      "options": [
+        "Storage Layer",
+        "Distribution Layer",
+        "Consensus Layer",
+        "Incentive Layer"
+      ],
+      "answer": "Consensus Layer"
+    },
+    {
+      "question": "Which layer stores model weights and fingerprint registration information?",
+      "options": [
+        "Access Layer",
+        "Storage Layer",
+        "Incentive Layer",
+        "Distribution Layer"
+      ],
+      "answer": "Storage Layer"
+    },
+    {
+      "question": "Which layer manages authorization contracts controlling model invocation?",
+      "options": [
+        "Incentive Layer",
+        "Storage Layer",
+        "Distribution Layer",
+        "Access Layer"
+      ],
+      "answer": "Distribution Layer"
+    },
+    {
+      "question": "Which layer verifies whether users are authorized through proof of permission?",
+      "options": [
+        "Access Layer",
+        "Distribution Layer",
+        "Incentive Layer",
+        "Storage Layer"
+      ],
+      "answer": "Access Layer"
+    },
+    {
+      "question": "Which layer routes earnings from model calls to trainers, deployers, and validators?",
+      "options": [
+        "Distribution Layer",
+        "Incentive Layer",
+        "Access Layer",
+        "Storage Layer"
+      ],
+      "answer": "Incentive Layer"
+    },
+    {
+      "question": "What is the goal of the 'Open' property in OML?",
+      "options": [
+        "Model must be open‑source, transparent for reproduction, auditing, and forking",
+        "Model must be permissioned by DAO",
+        "Model must use proprietary encryption",
+        "Model must be hosted centrally"
+      ],
+      "answer": "Model must be open‑source, transparent for reproduction, auditing, and forking"
+    },
+    {
+      "question": "What does 'Monetizable' in OML require?",
+      "options": [
+        "Model calls are free",
+        "Each call triggers revenue distributed via on‑chain contracts to trainers, deployers, validators",
+        "Model must have subscription",
+        "Model run is off‑chain only"
+      ],
+      "answer": "Each call triggers revenue distributed via on‑chain contracts to trainers, deployers, validators"
+    },
+    {
+      "question": "What does the 'Loyal' property in OML mean?",
+      "options": [
+        "Model belongs to company",
+        "Upgrades and governance decided by DAO, ownership verifiable, modifications restricted, usage controlled",
+        "Model must be proprietary",
+        "Model returns consistent outputs"
+      ],
+      "answer": "Upgrades and governance decided by DAO, ownership verifiable, modifications restricted, usage controlled"
+    },
+    {
+      "question": "What is 'AI‑native cryptography' in Sentient?",
+      "options": [
+        "Standard TLS encryption",
+        "Use continuity, low‑dimensional manifold and differentiability of AI models to develop verifiable but non‑removable signature",
+        "Encrypt model weights with AES",
+        "Quantum‑resistant blockchain"
+      ],
+      "answer": "Use continuity, low‑dimensional manifold and differentiability of AI models to develop verifiable but non‑removable signature"
+    },
+    {
+      "question": "What core technology embeds a unique signature into the model during training?",
+      "options": [
+        "Watermarking",
+        "Fingerprint Embedding",
+        "UUID tagging",
+        "Digital license key"
+      ],
+      "answer": "Fingerprint Embedding"
+    },
+    {
+      "question": "What is the purpose of the Ownership Verification Protocol?",
+      "options": [
+        "To encrypt inference",
+        "To verify fingerprint retention via query by third‑party detector (Prover)",
+        "To launch new tokens",
+        "To manage UI access"
+      ],
+      "answer": "To verify fingerprint retention via query by third‑party detector (Prover)"
+    },
+    {
+      "question": "What is the purpose of the Sentient Enclaves Framework?",
+      "options": [
+        "Frontend chat UI",
+        "Infrastructure for confidential AI using Trusted Execution Environments like AWS Nitro Enclaves",
+        "A training data-labeling tool",
+        "A governance dashboard"
+      ],
+      "answer": "Infrastructure for confidential AI using Trusted Execution Environments like AWS Nitro Enclaves"
+    },
+    {
+      "question": "What component ensures the model responds only to authorized requests?",
+      "options": [
+        "Incentive Layer",
+        "Fingerprint Embedding",
+        "Sentient Enclaves Framework (TEE)",
+        "Distribution Layer"
+      ],
+      "answer": "Sentient Enclaves Framework (TEE)"
+    },
+    {
+      "question": "Which architecture combines fingerprint certification, TEE execution, and on‑chain contract profit sharing?",
+      "options": [
+        "Melange",
+        "Open Deep Search",
+        "Sentient Agent Framework",
+        "DAO governance stack"
+      ],
+      "answer": "Melange"
+    },
+    {
+      "question": "Which module in the blockchain system represents AI artifact ownership via tokenization?",
+      "options": [
+        "DeFi",
+        "Ownership",
+        "Governance",
+        "Access"
+      ],
+      "answer": "Ownership"
+    },
+    {
+      "question": "Which governance structure controls the decision‑making in Sentient?",
+      "options": [
+        "Centralized company",
+        "DAO",
+        "Private foundation",
+        "Token holders only"
+      ],
+      "answer": "DAO"
+    },
+    {
+      "question": "Which system in Sentient is defined as a search agent that can surpass ChatGPT and Perplexity Pro?",
+      "options": [
+        "Sentient Chat",
+        "Open Deep Search",
+        "Melange",
+        "Sentient Agent Framework"
+      ],
+      "answer": "Open Deep Search"
+    }
+]
+  

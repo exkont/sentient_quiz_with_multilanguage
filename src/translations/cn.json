@@ -1,0 +1,165 @@
+{
+  "title": "Sentient Protocol 测验",
+  "start": "开始测验",
+  "next": "下一步",
+  "submit": "提交",
+  "restart": "重新开始测验",
+  "language": "语言",
+  "score": "分数",
+  "correct": "正确",
+  "incorrect": "错误",
+  "total": "总计",
+  "loading": "加载中...",
+  "error": "错误",
+  "tryAgain": "重试",
+  "congratulations": "恭喜！",
+  "quizComplete": "测验完成",
+  "yourScore": "您的分数",
+  "outOf": "共",
+  "questions": "题",
+  "navigation": {
+    "home": "首页",
+    "quiz": "测验",
+    "learn": "学习",
+    "resources": "资源"
+  },
+  "home": {
+    "hero": {
+      "title": "欢迎来到",
+      "subtitle": "Sentient Protocol",
+      "description": "探索AI基础设施的未来。学习基于区块链的AI系统，参加互动测验，探索综合资源。",
+      "startQuiz": "开始测验",
+      "learnMore": "了解更多"
+    },
+    "features": {
+      "title": "探索 Sentient Protocol",
+      "subtitle": "通过我们综合的学习平台深入了解AI基础设施世界",
+      "learnArchitecture": {
+        "title": "学习架构",
+        "description": "了解Sentient Protocol的核心组件和设计原则"
+      },
+      "takeQuiz": {
+        "title": "参加测验",
+        "description": "通过关于Sentient Protocol的互动测验测试您的知识"
+      },
+      "resources": {
+        "title": "资源",
+        "description": "访问综合文档和学习材料"
+      }
+    },
+    "cta": {
+      "title": "准备好测试您的知识了吗？",
+      "description": "参加我们的互动测验，看看您对Sentient Protocol的理解程度",
+      "button": "立即开始测验"
+    }
+  },
+  "learn": {
+    "hero": {
+      "title": "学习",
+      "subtitle": "Sentient Protocol",
+      "description": "深入了解Sentient Protocol的架构、组件和原则。了解区块链和AI如何协同工作，创造去中心化AI基础设施的未来。"
+    },
+    "topics": {
+      "title": "学习主题",
+      "subtitle": "探索每个组件的综合文档和教程",
+      "learnMore": "了解更多",
+      "architecture": {
+        "title": "架构概览",
+        "description": "了解Sentient Protocol的核心组件"
+      },
+      "aiPipeline": {
+        "title": "AI管道",
+        "description": "了解AI管道及其组件"
+      },
+      "governance": {
+        "title": "治理",
+        "description": "了解治理结构"
+      },
+      "ownership": {
+        "title": "所有权",
+        "description": "了解所有权和代币化"
+      },
+      "defi": {
+        "title": "DeFi",
+        "description": "探索DeFi组件和机制"
+      },
+      "smartContracts": {
+        "title": "智能合约",
+        "description": "了解智能合约实施"
+      }
+    },
+    "cta": {
+      "title": "准备好测试您的知识了吗？",
+      "description": "现在您已经学习了Sentient Protocol，参加我们的测验，看看您对概念的理解程度",
+      "button": "参加测验"
+    }
+  },
+  "resources": {
+    "hero": {
+      "title": "资源和",
+      "subtitle": "文档",
+      "description": "访问Sentient Protocol的综合资源、文档和学习材料。了解和使用协议所需的一切。"
+    },
+    "categories": {
+      "all": "全部",
+      "documentation": "文档",
+      "technical": "技术",
+      "governance": "治理",
+      "defi": "DeFi"
+    },
+    "resources": {
+      "officialDocs": {
+        "title": "官方文档",
+        "description": "涵盖Sentient Protocol所有方面的综合文档"
+      },
+      "architecture": {
+        "title": "架构指南",
+        "description": "协议架构和组件的详细概览"
+      },
+      "aiPipeline": {
+        "title": "AI管道",
+        "description": "了解AI管道及其实施"
+      },
+      "governance": {
+        "title": "治理",
+        "description": "了解治理结构和决策过程"
+      },
+      "ownership": {
+        "title": "所有权",
+        "description": "了解所有权和代币化机制"
+      },
+      "defi": {
+        "title": "DeFi组件",
+        "description": "探索DeFi组件和金融机制"
+      },
+      "smartContracts": {
+        "title": "智能合约",
+        "description": "关于智能合约实施的技术细节"
+      },
+      "visitResource": "访问资源"
+    },
+    "cta": {
+      "title": "准备好了解更多了吗？",
+      "description": "现在您已经可以访问所有资源，开始学习Sentient Protocol",
+      "startLearning": "开始学习",
+      "takeQuiz": "参加测验"
+    }
+  },
+  "quiz": {
+    "features": {
+      "testKnowledge": {
+        "title": "测试您的知识",
+        "description": "通过关于Sentient Protocol的问题挑战自己"
+      },
+      "instantFeedback": {
+        "title": "即时反馈",
+        "description": "获得即时结果和解释"
+      },
+      "trackProgress": {
+        "title": "跟踪进度",
+        "description": "查看您的分数并随时间改进"
+      }
+    },
+    "info": "多选题 • 即时结果 • 无时间限制"
+  }
+} 
